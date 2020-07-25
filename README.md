@@ -2,4 +2,4 @@
 A collection of SQLi payloads gathered from different parts of the internet.
 
 ## Credits to:
-Dr. Emin İslam TatlıIf
+* Dr. Emin İslam TatlıIf
