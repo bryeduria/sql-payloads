@@ -1,5 +1,5 @@
 # sql-payloads
 A collection of SQLi payloads gathered from different parts of the internet.
 
-##Credits to:
+## Credits to:
 Dr. Emin İslam TatlıIf
